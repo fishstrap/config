@@ -1,6 +1,6 @@
 {
-  "alertEnabled": true,
-  "alertContent": "test",
+  "alertEnabled": false,
+  "alertContent": "",
   "alertSeverity": 0,
   "killFlags": false,
   "packageMaps": {
