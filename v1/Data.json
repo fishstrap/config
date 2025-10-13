@@ -3,6 +3,7 @@
   "alertContent": "",
   "alertSeverity": 0,
   "killFlags": false,
+  "deeplinkUrl": "https://fishstrap.app/joingame",
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
