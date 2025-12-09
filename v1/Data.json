@@ -3,7 +3,7 @@
   "alertContent": "",
   "alertSeverity": 0,
   "killFlags": false,
-  "deeplinkUrl": "https://www.fishstrap.app/joingame",
+  "deeplinkUrl": "roblox://experiences/start",
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
