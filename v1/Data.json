@@ -49,5 +49,8 @@
       "StudioFonts.zip": "StudioFonts\\",
       "RibbonConfig.zip": "RibbonConfig\\"
     }
-  }
+  },
+  "ignoredPackages": [
+    "RobloxPlayerInstaller.exe"
+  ]
 }
